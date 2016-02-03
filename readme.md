@@ -17,8 +17,8 @@ creator:
 
 Today you're going to have additional Java practice problems. Follow each of the links below, and complete the problem on that webpage. You can click the "Go" button to have your code tested.
 
-[Problem 1](http://codingbat.com/prob/p186759)
-[Problem 2](http://codingbat.com/prob/p100905)
+- [Problem 1](http://codingbat.com/prob/p186759)
+- [Problem 2](http://codingbat.com/prob/p100905)
 
 #### Deliverable
 
