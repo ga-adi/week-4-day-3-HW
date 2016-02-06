@@ -1,0 +1,26 @@
+Problem 1 Solution:
+
+public String delDel(String str) {
+  String result = str;
+  
+  if(result.length()>3){
+  if(result.charAt(1)=='d'
+  && result.charAt(2)=='e'
+  && result.charAt(3)=='l') {
+  result = result.charAt(0) + result.substring(4);
+  }}
+  
+  return result;
+}
+
+
+Problem 2 Solution:
+
+boolean doubleX(String str) {
+
+  if(str.indexOf("x",str.indexOf("x")+1) == str.indexOf("x")+1){
+  return true;
+  }
+  
+  return false;
+}
