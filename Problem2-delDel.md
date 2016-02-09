@@ -7,5 +7,14 @@ delDel("adelHello") → "aHello"
 delDel("adedbc") → "adedbc"
 
 ```
-
+public String delDel(String str) {
+  for (int i = 0; i >= str.length(); i++){
+      if ( str.contains("del") ) {
+          str = str.replace("del", "");
+          return str;
+      } else {
+      } return str;
+  }
+  return str;
+}
 ```
