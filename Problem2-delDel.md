@@ -8,7 +8,7 @@ delDel("adedbc") → "adedbc"
 
 ```
 public String delDel(String str) {
-  if ( str.contains("del") && str.indexOf("del") == 1) {
+  if ( str.indexOf("del") == 1) {
       str = str.replace("del", "");
       return str;
   } else {
